@@ -1,2 +1,3 @@
 # linktree
-LINK TREE GW
+Linktree is a tool that gathers all your important links into one modern, minimalist page design.
+One click, all links displayed. 🌟
